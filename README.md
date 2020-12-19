@@ -1,2 +1,0 @@
-# Khetipoint
- Assignment
