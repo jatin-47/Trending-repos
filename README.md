@@ -5,3 +5,8 @@ Main highlights:
 - Loading shimmer animation
 - Mobile responsive
 - Custom Error page
+<br>
+
+![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(195).png)
+![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(194).png)
+![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(196).png)
