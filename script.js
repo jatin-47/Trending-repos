@@ -63,7 +63,26 @@ document.addEventListener('DOMContentLoaded', function() {
 
           document.querySelector('#repos').append(item);
         });
-    });
+    })
+    .catch((error) => {
+        console.log(error);
+        document.getElementById("target").style.display = 'none';
+        let crash = document.createElement('div');
+        crash.className = 'crash';
+        crash.innerHTML = `
+            <img src="images/nointernet.png" alt="crash" class="crash">
+            <div class="msg">
+                <h3>Something went wrong..</h3>
+                <h5>An alien is probably blocking your signal.</h5>
+            </div>
+            <button class="retry">RETRY</button>
+        `;
+        document.querySelector('#repos').append(crash);
+        document.querySelector('.retry').addEventListener('click', () => {
+            window.location.reload();
+        });
+
+      });
 });
 
 function expand(repo)
