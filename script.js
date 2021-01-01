@@ -48,11 +48,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         <span class="language">${repo.language}</span>
                     </div>
                     <div>
-                        <img src="images/star.png" alt="star" class="star">
+                        <img src="Images/star.png" alt="star" class="star">
                         <span class="star_num">${repo.stars}</span>
                     </div>
                     <div>
-                        <img src="images/fork.png" alt="fork" class="fork">
+                        <img src="/images/fork.png" alt="fork" class="fork">
                         <span class="fork_num">${repo.forks}</span>
                     </div>
                 </div>
