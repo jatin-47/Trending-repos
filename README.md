@@ -1,4 +1,4 @@
-# Khetipoint
+# Trending GitHub Repos
 A single page web app which shows trending GitHub repositories obtained using an API.
 
 Main highlights:
