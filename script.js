@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <span class="star_num">${repo.stars}</span>
                     </div>
                     <div>
-                        <img src="/Images/fork.png" alt="fork" class="fork">
+                        <img src="Images/fork.png" alt="fork" class="fork">
                         <span class="fork_num">${repo.forks}</span>
                     </div>
                 </div>
