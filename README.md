@@ -1,4 +1,5 @@
 # Trending GitHub Repos
+https://jatin-47.github.io/trending-repos/repo.html
 A single page web app which shows trending GitHub repositories obtained using an API.
 
 Main highlights:
