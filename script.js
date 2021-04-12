@@ -48,11 +48,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         <span class="language">${repo.language}</span>
                     </div>
                     <div>
-                        <img src="Images/star.png" alt="star" class="star">
+                        <img src="images/star.png" alt="star" class="star">
                         <span class="star_num">${repo.stars}</span>
                     </div>
                     <div>
-                        <img src="Images/fork.png" alt="fork" class="fork">
+                        <img src="images/fork.png" alt="fork" class="fork">
                         <span class="fork_num">${repo.forks}</span>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
         let crash = document.createElement('div');
         crash.className = 'crash';
         crash.innerHTML = `
-            <img src="Images/nointernet.png" alt="crash" class="crash">
+            <img src="images/nointernet.png" alt="crash" class="crash">
             <div class="msg">
                 <h3>Something went wrong..</h3>
                 <h5>An alien is probably blocking your signal.</h5>
