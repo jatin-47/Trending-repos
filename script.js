@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
         let crash = document.createElement('div');
         crash.className = 'crash';
         crash.innerHTML = `
-            <img src="images/nointernet.png" alt="crash" class="crash">
+            <img src="Images/nointernet.png" alt="crash" class="crash">
             <div class="msg">
                 <h3>Something went wrong..</h3>
                 <h5>An alien is probably blocking your signal.</h5>
