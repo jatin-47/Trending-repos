@@ -8,6 +8,6 @@ Main highlights:
 - Custom Error page
 <br>
 
-![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(195).png)
-![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(194).png)
-![Screeshot](https://github.com/jatin-47/Khetipoint/blob/main/Screenshot%20(196).png)
+![Screeshot1](https://github.com/jatin-47/trending-repos/blob/main/ScreenShots/ss1.png)
+![Screeshot2](https://github.com/jatin-47/trending-repos/blob/main/ScreenShots/ss2.png)
+![Screeshot3](https://github.com/jatin-47/trending-repos/blob/main/ScreenShots/ss3.png)
