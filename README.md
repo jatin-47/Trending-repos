@@ -11,6 +11,6 @@ Main highlights:
 
 ## Screenshots: :camera:
 
-![Screeshot1](https://github.com/jatin-47/trending-repos/blob/main/Images/ScreenShots/ss1.png)
-![Screeshot2](https://github.com/jatin-47/trending-repos/blob/main/Images/ScreenShots/ss2.png)
-![Screeshot3](https://github.com/jatin-47/trending-repos/blob/main/Images/ScreenShots/ss3.png)
+![Screeshot1](https://github.com/jatin-47/trending-repos/blob/main/images/ScreenShots/ss1.png)
+![Screeshot2](https://github.com/jatin-47/trending-repos/blob/main/images/ScreenShots/ss2.png)
+![Screeshot3](https://github.com/jatin-47/trending-repos/blob/main/images/ScreenShots/ss3.png)
